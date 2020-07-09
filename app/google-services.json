@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "253903173044",
+    "firebase_url": "https://turkisaretdili-276cd.firebaseio.com",
+    "project_id": "turkisaretdili-276cd",
+    "storage_bucket": "turkisaretdili-276cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253903173044:android:e7dfe4fbe889d255",
+        "android_client_info": {
+          "package_name": "com.example.ceren.tid2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253903173044-en1ldp46h9plclevcd9h255g8gejrca6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ceren.tid2",
+            "certificate_hash": "f5ff5f5739013ce0a827d2a3a8de674cea6149fd"
+          }
+        },
+        {
+          "client_id": "253903173044-t87b16vbtv9ruqs801fcit16k63h959e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5bwS5tail9fSmDte9H6k5my-dVkz_IP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253903173044-t87b16vbtv9ruqs801fcit16k63h959e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
