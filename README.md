@@ -7,3 +7,7 @@ Bu proje Türk İşaret Dilini öğrenmek isteyen kişiler için yapılmıştır
 Playstore'da bulunmaktadır. 
 
 <img src="https://user-images.githubusercontent.com/36292743/72289300-a3d80f80-35ff-11ea-8044-98e1d44265be.png" width="100" height="100">
+
+
+[Google Play Link](https://play.google.com/store/apps/details?id=turk.isaret.dili.egitimi)
+
